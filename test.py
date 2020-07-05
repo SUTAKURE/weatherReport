@@ -3,7 +3,7 @@
 
 import requests
 
-API_KEY = '7a7674596949456866644e3431366c4876374c6f32664b67467974384d6b504b4764576669364550676538'
+API_KEY = 'YOUR API'
 url     = 'https://api.apigw.smt.docomo.ne.jp/crayon/v1/textToSpeech' + '?APIKEY=' + API_KEY
 
 headers = {
